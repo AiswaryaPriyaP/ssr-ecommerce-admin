@@ -65,12 +65,6 @@ https://ssr-ecommerce-admin-m99fnthsr-aiswaryas-projects-61cd425d.vercel.app
 https://drive.google.com/drive/folders/1u6WO4J4w1UzuHzycNmpHPo7j88plxUYN?usp=sharing
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Deliverables Covered
-- Complete source code of SSR e-commerce admin dashboard
-- Product management with image upload
-- Sales & analytics visualization
-- Fully functional server-rendered application
-- Public live deployment
+
 
