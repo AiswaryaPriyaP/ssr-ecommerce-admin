@@ -62,11 +62,7 @@ https://ssr-ecommerce-admin-m99fnthsr-aiswaryas-projects-61cd425d.vercel.app
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Demo Video
-A short 3–5 minute demo video showing:
-- Admin login
-- Adding a product with image upload
-- Server-rendered product list
-- Sales & analytics chart
+https://drive.google.com/drive/folders/1u6WO4J4w1UzuHzycNmpHPo7j88plxUYN?usp=sharing
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -77,3 +73,4 @@ A short 3–5 minute demo video showing:
 - Sales & analytics visualization
 - Fully functional server-rendered application
 - Public live deployment
+
