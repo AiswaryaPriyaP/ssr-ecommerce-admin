@@ -46,13 +46,13 @@ CLOUDINARY
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Setup Instructions
-git clone https://github.com/your-username/ssr-ecommerce-admin.git  
+git clone https://github.com/AiswaryaPriyaP/ssr-ecommerce-admin.git  
 cd ssr-ecommerce-admin  
 npm install  
 npm run dev  
 
 Open the application at:  
-http://localhost:3000/login
+http://localhost:3000
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -63,6 +63,7 @@ https://ssr-ecommerce-admin-m99fnthsr-aiswaryas-projects-61cd425d.vercel.app
 
 ## Demo Video
 https://drive.google.com/drive/folders/1u6WO4J4w1UzuHzycNmpHPo7j88plxUYN?usp=sharing
+
 
 
 
