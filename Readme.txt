@@ -57,12 +57,13 @@ http://localhost:3000
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Live Deployment
-https://ssr-ecommerce-admin-m99fnthsr-aiswaryas-projects-61cd425d.vercel.app
+https://ssr-ecommerce-admin.vercel.app/login
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Demo Video
 https://drive.google.com/drive/folders/1u6WO4J4w1UzuHzycNmpHPo7j88plxUYN?usp=sharing
+
 
 
 
